@@ -125,7 +125,7 @@ const Home = () => {
     <div className="home">
       <nav className="nav-bar">
         <div className="nav-content">
-          <div className="nav-title">Meme Generator</div>
+          <div className="nav-title">CanvasLab</div>
           <ol className="nav-list">
             <li>
               <Link to="/home" className="link">

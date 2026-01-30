@@ -7,7 +7,7 @@ const Landing = () => {
 
   return (
     <div className="landing-container">
-      <h1>Welcome to Meme Generator</h1>
+      <h1>Welcome to CanvasLab</h1>
       <div className="button-container">
         <button
           className="signup-btn"

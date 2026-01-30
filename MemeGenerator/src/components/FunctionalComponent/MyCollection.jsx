@@ -14,7 +14,7 @@ const MyCollection = () => {
     <div className="my-collection">
       <nav className="nav-bar">
               <div className="nav-content">
-                <div className="nav-title">Meme Generator</div>
+                <div className="nav-title">CanvasLab</div>
                 <ol className="nav-list">
                   <li>
                     <Link to="/home" className="link">
